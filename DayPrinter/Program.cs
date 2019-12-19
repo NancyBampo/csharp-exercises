@@ -44,7 +44,7 @@ namespace DayPrinter
             }
 
             Console.WriteLine(day);
-            Console.ReadLine();
+         
         }
     }
 }
